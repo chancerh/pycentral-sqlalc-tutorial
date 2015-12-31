@@ -1,1 +1,2 @@
 Finished "The Old Way of Writing Database Code in Python"
+Stopped at reading article 4: http://pythoncentral.io/overview-sqlalchemys-expression-language-orm-queries/
